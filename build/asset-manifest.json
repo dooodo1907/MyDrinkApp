@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6646e043.css",
+    "main.js": "/static/js/main.860d6245.js",
+    "static/media/absolute.png": "/static/media/absolute.b21bf9a9a7fcbe26c0f4.png",
+    "static/media/efes.png": "/static/media/efes.6ff536cbc5577f0fb79c.png",
+    "static/media/tuborg.png": "/static/media/tuborg.bbb0934b7e51bf664d00.png",
+    "static/media/efesözelseri.png": "/static/media/efesözelseri.cd95ca74ee5b7bac790a.png",
+    "static/media/jackdaniels.png": "/static/media/jackdaniels.d066c82d8670ef8b143c.png",
+    "static/media/baileys.png": "/static/media/baileys.50a38d583580704fb916.png",
+    "static/media/heineken.png": "/static/media/heineken.23182f588ab375f2f2c1.png",
+    "static/media/redlabel.png": "/static/media/redlabel.85221714c6445431947f.png",
+    "index.html": "/index.html",
+    "main.6646e043.css.map": "/static/css/main.6646e043.css.map",
+    "main.860d6245.js.map": "/static/js/main.860d6245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6646e043.css",
+    "static/js/main.860d6245.js"
+  ]
+}
